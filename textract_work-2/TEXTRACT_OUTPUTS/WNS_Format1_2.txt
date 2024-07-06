@@ -1,0 +1,10 @@
+Employee ID 352813
+Basic 9382.21
+Basic 9382.21
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+Phil Health Employee 219.11
+SSS Employee 315.00
+SSS WISP Employee 450.00
+HDMF LOAN 183.01

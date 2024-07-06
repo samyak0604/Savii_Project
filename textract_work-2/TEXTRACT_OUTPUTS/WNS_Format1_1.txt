@@ -1,0 +1,9 @@
+Employee ID 410856
+Basic 7303.33
+Basic 7303.33
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+HDMF Employee 100.00
+Phil Health Employee 250.00
+SSS Employee 337.50

@@ -1,0 +1,16 @@
+Employee No. 10001522
+Basic Pay 7,500.00
+Absent 8.00
+Absent 8.00
+Trans Allowance 250.00
+Rice Subsidy 750.00
+Clothing Allowance 150.00
+Philhealth 200.00
+Philhealth 200.00
+('Deductions', 'SSS Premium', '495.00')
+('Deductions', 'Provident Fund Contributi', '225.00')
+('Deductions', 'Pag Calamity Ln-Ded', '39.32')
+('Deductions', 'Pag-lbig STL-Ded', '613.14')
+('Deductions', 'SSS Calamity - Ded', '461.45')
+('Deductions', 'SSS Salary Loan-Ded', '922.90')
+NET PAY 6,795.55

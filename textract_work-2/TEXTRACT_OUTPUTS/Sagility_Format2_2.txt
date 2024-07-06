@@ -1,0 +1,23 @@
+eriod from Dec 16,2023 to Dec 31,2023
+Basic Pay 8,294.50
+(Undertime) (0.00)
+(Undertime) (0.00)
+(Tardiness) (0.00)
+(Tardiness) (0.00)
+ACCOUNT PREMIUM 1,000.00
+RICE 300.00
+RICE 300.00
+('Deductions', 'HDMF Premium', '0.00')
+IDMF Premium 1,200.00
+('Deductions', 'PHIC Premium', '0.00')
+'HIC Premium 3,971.70
+('Deductions', 'SSS Premium', '90.00')
+SS Premium 10,800.00
+('Deductions', 'SSS Provident', '450.00')
+SS Provident 5,400.00
+('Deductions', 'PAGIBIG LOAN', '457.01')
+('Deductions', 'SSS SALARY LOAN', '876.76')
+('Deductions', 'HMO_ Y23', '2,492.51')
+('Deductions', 'COMPANY LOAN', '335.54')
+('Deductions', 'Withholding Tax', '-10,063.58')
+withholding Tax 23,472.21

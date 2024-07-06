@@ -1,0 +1,16 @@
+Employee No. 10235991
+Basic Pay 7,500.00
+Undertim 8.48
+Undertim 8.48
+Absent 15.37
+Absent 15.37
+LWOP 17.50
+LWOP 17.50
+Rice Subsidy 750.00
+Clothing Allowance 150.00
+Philhealth 200.00
+Philhealth 200.00
+('Deductions', 'SSS Premium', '405.00')
+('Deductions', 'SSS Calamity Ded', '438.38')
+('Deductions', 'SSS Salary Loan-Ded', '346.09')
+NET PAY 7,602.31

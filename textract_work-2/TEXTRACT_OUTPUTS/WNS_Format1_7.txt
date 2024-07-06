@@ -1,0 +1,14 @@
+Employee ID 394271
+Basic 9362.50
+Basic 9362.50
+Tardiness 20.00
+Tardiness 20.00
+Unpaid Leave 5
+Unpaid Leave 5.25
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+Phil Health Employee 174.50
+SSS Employee 450.00
+SSS WISP Employee 157.50
+HMO_IC PHL 187.45

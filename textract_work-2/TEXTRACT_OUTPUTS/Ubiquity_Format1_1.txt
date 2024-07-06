@@ -1,0 +1,9 @@
+Employee ID : 435602
+Pay Period : Dec 1 - Dec 15, 2023
+Basic pay 0.00
+Tardiness 65.9770
+Tardiness 65.9770
+Employee HDMF 100.0000
+Employee Phil Health 274.9800
+Multi-Purpose Loan 156.7500
+NET EARNINGS : 7,338.6437

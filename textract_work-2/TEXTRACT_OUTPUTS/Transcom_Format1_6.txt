@@ -1,0 +1,16 @@
+Employee No. 10260065
+Basic Pay 7,413.46
+Late 8.64
+Late 8.64
+Absent 8.28
+Absent 8.28
+VTO 2.50
+VTO 2.50
+Trans Allowance 250.00
+Rice Subsidy 750.00
+Clothing Allowance 150.00
+Philhealth 21.82
+Philhealth 21.82
+('Deductions', 'SSS Premium', '337.50')
+('Deductions', 'MPF EE Contribution', '90.00')
+NET PAY 9,236.73

@@ -1,0 +1,21 @@
+Employee Code: 2127743
+Pay Period: Nov 01 To Nov 15. 2023
+Basic Pay 9,113.42
+Basic Pay Adj -4,085.33
+Tardiness 0.72
+Overtime 150.21
+Overtime 150.21
+OVERTIME 150.21
+Clothing Allow (NT) 208.33
+Clothing Allow Adj (NT) -93.39
+Laundry Allow (NT) 150.00
+Laundry Allow Adj (NT) -67.24
+Rice Allow (NT) 750.00
+Medical Allow (NT) 62.50
+Medical Allow Adj (NT) -28.02
+Other Allow (NT) 79.17
+HDMF Contribution 100.00
+Philhealth Contribution 364.53
+SSS Contribution 270.00
+SSS SLERP 866.11
+NET PAY 3,191.89

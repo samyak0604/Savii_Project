@@ -1,0 +1,14 @@
+Employee No. 10265895
+Basic Pay 7,500.00
+Absent 0.37
+Absent 0.37
+Trans Allowance 250.00
+Rice Subsidy 750.00
+Clothing Allowance 150.00
+Philhealth 84.42
+Philhealth 84.42
+('Deductions', 'SSS Premium', '382.50')
+('Deductions', 'MPF EE Contribution', '135.00')
+('Deductions', 'Pag Calamity Ln-Ded', '545.41')
+('Deductions', 'Pag-lbig STL-Ded', '1,238.71')
+NET PAY 12,724.77

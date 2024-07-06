@@ -1,0 +1,12 @@
+Employee ID 355146
+Basic 9702.00
+Basic 9702.00
+Undertime -272.00
+Undertime -272.00
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+Phil Health Employee 188.08
+SSS Employee 270.00
+sss WISP Employee 450.00
+Income tax 563.33

@@ -1,0 +1,14 @@
+Employee ID 390242
+Basic 15000.00
+Basic 15000.00
+Undertime 22.00
+Undertime 22.00
+Tardiness 154.00
+Tardiness 154.00
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+HDMF Employee 100.00
+Phil Health Employee 300.00
+SSS Employee 765.00
+Income tax 490.46

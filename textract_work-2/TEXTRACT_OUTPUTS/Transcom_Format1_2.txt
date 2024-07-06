@@ -1,0 +1,13 @@
+Employee No. 96439
+Basic Pay 7,500.00
+Absent 37.77
+Absent 37.77
+LWOP 1.00
+LWOP 1.00
+Trans Allowance 250.00
+Rice Subsidy 750.00
+Clothing Allowance 150.00
+('Deductions', 'SSS Premium', '292.50')
+('Deductions', 'Provident Fund Contributi', '300.00')
+('Deductions', 'Maxicare depend. Deduct CY', '1,472.51')
+NET PAY 3,282.29

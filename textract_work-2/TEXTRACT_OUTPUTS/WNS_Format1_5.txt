@@ -1,0 +1,12 @@
+Employee ID 261811
+Basic 8175.54
+Basic 8175.54
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+HDMF Employee 100.00
+Phil Health Employee 200.00
+SSS Employee 405.00
+HDMF LOAN 346.66
+SSS Calamity 415.30
+SSS Loan 392.43

@@ -1,0 +1,10 @@
+Employee ID 395823
+Basic 11068.75
+Basic 11068.75
+Rice Allowance 750.00
+Clothing Allowance 200.00
+Medical Allowance 50.00
+HDMF Employee 100.00
+Phil Health Employee 221.38
+SSS Employee 540.00
+Income tax 85.48

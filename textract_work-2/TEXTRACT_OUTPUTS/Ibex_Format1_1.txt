@@ -1,0 +1,11 @@
+Employee ID 04181111
+Basic Salary 10,650.00
+Absences Deduction (1958.62)
+Laundry Allowance 244.83
+Rice Allowance 1 612.07
+Meal Allowance 1,428.16
+Medicine Allowance 40.80
+PhilHealth Contribution 213.00
+SSS Contribution 180.00
+Pag Ibig Loan 423.57
+NET PAYMENT 8,264.57

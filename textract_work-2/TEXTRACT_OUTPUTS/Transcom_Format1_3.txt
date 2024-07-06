@@ -1,0 +1,15 @@
+Employee No. 10243863
+Basic Pay 5,942.28
+Undertim 2.00
+Undertim 2.00
+Absent 10.53
+Absent 10.53
+Trans Allowance 250.00
+Rice Subsidy 750.00
+Clothing Allowance 150.00
+Philhealth 250.00
+Philhealth 250.00
+('Deductions', 'SSS Premium', '877.50')
+('Deductions', 'Transcom Care CalamityDed', '416.67')
+NET PAY 14,330.11
+('Deductions', 'Withholding Tax', '1,039.05')

@@ -1,0 +1,10 @@
+Employee ID 289149
+Basic Salary 87.73
+Laundry Allowance 252.10
+Rice Allowance 1 756.29
+Meal Allowance 1,008.39
+wos Agent Allowance 708.05
+PhilHealth Contribution 60.00
+SSS Contribution 450.00
+SSS Loan 403.77
+NET PAYMENT 8,940.68

@@ -1,0 +1,8 @@
+Employee Code: 2275338
+Basic Pay 12,532.00
+Philhealth Contribution 626.60
+SSS Contribution 900.00
+SSS MPF Contribution 225.00
+HDME salary loan 108.55
+SSS salary loan 299.94
+Withholding Tax 0.00
